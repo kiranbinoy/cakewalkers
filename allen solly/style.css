@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left-section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-left: 2px solid white;
+}
+.left-section img{
+    margin-right: 5px;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.store{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+    border-right: 2px solid white;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-right: 8px;
+   
+}
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
