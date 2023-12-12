@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    font-size: 12px;
+    display: flex;
+    color: white;
+    background-color: black;
+    justify-content: space-between;
+    
+}
+.left-section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-left: 2px solid white;
+    background-color: black;
+    color: white;
+    
+}
+.left-section img{
+    margin-right: 5px;
+}
+.right-section{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.store{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 5px;
+    margin-right: 8px;
+    border-right: 2px solid white;
+}
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-right: 8px;
+   
+}
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
+.athin{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 35px;
+}
+.product{
+    padding-left:15px;
+    padding-right: 5px;
+}
+.new-arrivals{
+    padding-left:15px;
+    padding-right: 5px;
+}
+.special-size{
+    padding-left:15px;
+    padding-right: 5px;
+}
+.sales{
+    color: red;
+    padding-left:15px;
+    padding-right: 5px;
+}
+.gift-card{
+    padding-left:15px;
+    padding-right: 5px;
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
