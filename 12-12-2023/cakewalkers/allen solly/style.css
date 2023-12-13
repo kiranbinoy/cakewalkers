@@ -56,6 +56,12 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.x-mas-img{
+    width: 100%;
+}
+
+
 .details{
     display: flex;
     align-items: center;
