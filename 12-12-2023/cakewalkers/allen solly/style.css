@@ -82,16 +82,66 @@
 }
 .sales{
     color: red;
-    padding-left:15px;
-    padding-right: 5px;
+    padding-left:20px;
+    padding-right: 15px;
 }
-.gift-card{
-    padding-left:15px;
-    padding-right: 5px;
+.gift-cards{
+    padding-left: 20px;
+    padding-right: 15px;
+}
+.search{
+    font-size: 25px;
+    color:rgb(185, 170, 170);
 }
 .images{
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: left;
+}
+.a{
+padding-left: 0%;
 
+}
+
+.b{
+    padding-left: 60px;
+    padding-right: 60px;
+    justify-content: center;
+}
+.men{
+    padding-left: 50px;
+    justify-content: center;
+}
+.C{
+    padding-left: 60px;
+    justify-content: center;
+}
+.winter-ware{
+    padding-left: 30px;
+    justify-content: center;
+}
+
+.d{
+    padding-left: 60px;
+    justify-content: center;
+}
+.girls{
+    padding-left: 50px;
+    justify-content: center;
+}
+.e{
+    padding-left: 60px;
+    justify-content: center;
+}
+.women{
+    padding-left: 50px;
+    justify-content: center;
+}
+.f{
+    padding-left: 50px;
+    justify-content: center;
+}
+.new-arrivals{
+    padding-left: 25px;
+    justify-content: center;
 }
